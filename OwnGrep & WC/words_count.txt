@@ -1,0 +1,4 @@
+PhrasePrChecker.Downs found in file "1.log" 16 times
+PhrasePrChecker.Downs found in file "2.log" 16 times
+PhrasePrChecker.Downs found in file "3.log" 16 times
+PhrasePrChecker.Downs found in file "4.log" 16 times
